@@ -9,7 +9,7 @@ public class Indian_coin {
         Arrays.sort(coins, Comparator.reverseOrder());
 
         int countOfCoins = 0;
-        int amount = 590;
+        int amount = 1599;
         ArrayList<Integer> ans = new ArrayList<>();
 
         for(int i=0; i<coins.length; i++){
